@@ -1,6 +1,7 @@
 ---
 toc: true
 layout: post
+comments: true
 description: The proposed approach uses a nonparametric representation, also reffered to as Part Affinity Fields (PAFs), to learn to associate body parts with individual.
 categories: [critical-review, data-science]
 title: Critical Review on “OpenPose - Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields”
