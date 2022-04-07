@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Ml/AI
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: AI/ML
+description: This site, AI/ML will be a repository of all of my knowledge in the data science field. Hope you find some of them interesting.
 github_username: milindsoorya
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"

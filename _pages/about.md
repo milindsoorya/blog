@@ -4,8 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Hey, I'm Milind. I'm a developer, writer and creator. This blog is to document the amazing techologies that I learn during my developer journey
 
+## Let's Connect
 
+I would love to hear your developer journey, amzing things that you learn etc. Ping me on [Twitter](https://mobile.twitter.com/milindsoorya) where I talk about design and development, or on [GitHub](https://github.com/milindsoorya) where I’m building in the open, or on [LinkedIn](https://www.linkedin.com/in/milindsoorya/).
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+checkout my personal website [milindsoorya.com](https://www.milindsoorya.com)
